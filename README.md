@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Sr. Software Engineer at Bet365, working in Back Office Members.
+I'm a Technical Lead at Bet365, working in Back Office Members.
 
 <!--
 **SJMakin/SJMakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
