@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a Technical Lead at Bet365. I love supercharging dev with automation and building elegent solutions. I eat legacy code for breakfast, lunch and dinner.
+I'm a Technical Lead at Bet365. 
+
+I love supercharging dev with automation and building elegent solutions. I eat legacy code for breakfast, lunch and dinner.
 
 <!--
 **SJMakin/SJMakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
