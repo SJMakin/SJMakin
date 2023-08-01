@@ -1,18 +1,13 @@
-### Hi there 👋
+# Hello, Wanderer! 🚀
 
-I'm a Technical Lead at bet365. 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SJMakin.visitor-badge)
 
-<!--
-**SJMakin/SJMakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub! 👋
 
-Here are some ideas to get you started:
+I'm someone who enjoys solving problems and learning new things. Most details about me are a mystery. 🕵️‍♀️🔍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I do love coding. 
+
+Here is a random puzzle for you: https://sammak.in/puzzle/Level1.html 
+
+Stay curious. 🌟 Keep learning. 🚀
